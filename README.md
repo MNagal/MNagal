@@ -3,7 +3,6 @@
 	Full-Stack Developer | Linux & Homelab Enthusiast<br>
 	My site: <a href="https://marllon.dev">marllon.dev</a>
 </p>
----
 
 Developer since 2019 with experience in the Python and JavaScript ecosystems. My focus is on building scalable applications with clean architecture, always keeping maintenance and security in mind.
 
